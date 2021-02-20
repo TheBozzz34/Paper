@@ -1,4 +1,4 @@
-Paper ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/PaperMC/Paper/Build%20Paper/master)
+[![Build Status](https://travis-ci.org/TheBozzz34/Paper.svg?branch=master)](https://travis-ci.org/TheBozzz34/Paper)
 ===========
 
 High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.
